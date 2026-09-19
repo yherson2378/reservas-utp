@@ -1,5 +1,5 @@
 Markdown
-# Portal de Reservas Estudiantiles
+# Sistema de Cubículos
 
 ## Descripción del Problema
 Los estudiantes de la universidad enfrentan dificultades para encontrar espacios de estudio disponibles en el campus debido a la falta de un sistema ágil y centralizado de reservas, generando pérdida de tiempo entre clases.
